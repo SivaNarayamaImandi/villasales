@@ -1,0 +1,30 @@
+#content{
+    width: 80%;
+    height: 70%;
+}
+#content h1{
+    font-size: 8vw;
+}
+#content .input{
+    width: 60vw;
+    height: 4.5vw;
+    font-size: 2.5vw;
+}
+#content span{
+    font-size: 4vw;
+}
+#content #submit{
+    width: 30vw;
+    font-size: 3vw;
+}
+#content #gender{
+    display: flex;
+    column-gap: 1.5vw;
+}
+#logo #left,#right{
+    margin-top: 90vw;
+    margin-left: 45vw;
+}
+#content #already{
+    font-size: 4vw;
+}

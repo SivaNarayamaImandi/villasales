@@ -1,0 +1,23 @@
+#login-container{
+    width: 70%;
+    height: 50%;
+}
+#login-container div h1{
+    font-size: 12vw;
+}
+#login-container div input{
+    width: 50vw;
+    height: 5vw;
+    font-size: 2.3vw;
+}
+#login-container div #login{
+    width: 30vw;
+    font-size: 4vw;
+    letter-spacing: 1vw;
+}
+#login-container div #fp{
+    font-size: 4vw;
+}
+#login-container div #cac{
+    font-size: 4vw;
+}
